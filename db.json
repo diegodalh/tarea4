@@ -1,0 +1,16 @@
+{
+    "sesiones":[
+    {
+        "Id":1,
+        "Nombre":"diego",
+        "Contra":"123"
+    },
+    {
+        "Id":2,
+        "Nombre":"abel",
+        "Contra":"123"
+    }
+
+    ]
+
+}
